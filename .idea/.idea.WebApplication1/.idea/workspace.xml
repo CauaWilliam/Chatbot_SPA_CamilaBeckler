@@ -9,14 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfd77509-d460-463f-a677-d0cd331713f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1/WebApplication1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1/WebApplication1.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +18,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -36,10 +31,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.WebApplication1: http.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,16 +83,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747779420212</updated>
-      <workItem from="1747779422060" duration="705000" />
+      <workItem from="1747779422060" duration="2360000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit test">
+      <option name="closed" value="true" />
+      <created>1747781702042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747781702042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
